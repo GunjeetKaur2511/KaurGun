@@ -1,2 +1,3 @@
 # KaurGun
-DSA tracking-repo
+**DSA tracking-repo**
+A collection of Leetcode Questions to ace the coding interviews!
