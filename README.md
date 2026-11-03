@@ -26,6 +26,7 @@ A collection of Leetcode Questions to ace the coding interviews!
 |  |
 | ------- |
 | [3665-twisted-mirror-path-count](https://github.com/GunjeetKaur2511/KaurGun/tree/master/3665-twisted-mirror-path-count) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/GunjeetKaur2511/KaurGun/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -34,4 +35,8 @@ A collection of Leetcode Questions to ace the coding interviews!
 |  |
 | ------- |
 | [3665-twisted-mirror-path-count](https://github.com/GunjeetKaur2511/KaurGun/tree/master/3665-twisted-mirror-path-count) |
+## Math
+|  |
+| ------- |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/GunjeetKaur2511/KaurGun/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 <!---LeetCode Topics End-->
